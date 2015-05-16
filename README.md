@@ -24,6 +24,7 @@ https://www.digitalocean.com/
 
 
 ## IRC
+https://kiwiirc.com/client
 
  
 ## Intresting url's

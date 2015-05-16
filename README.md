@@ -1,17 +1,14 @@
-# hackaday
+# Hackaday
 this folder contains all the materials from SLIIT hackaday workshop
----
 
+---
 ## Step 1 - Google Hacking
 
 https://www.exploit-db.com/google-hacking-database/
 
-
-
 ### camera hacking
 
  intext:"Hikvision" inurl:"login.asp"
- 
  
  
 ### Intresting url's

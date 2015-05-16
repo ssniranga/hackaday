@@ -8,7 +8,7 @@ https://www.exploit-db.com/google-hacking-database/
 
 
 
-### camera hakcing
+### camera hacking
 
  intext:"Hikvision" inurl:"login.asp"
  

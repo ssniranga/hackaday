@@ -76,6 +76,8 @@ b.	How long the attack has been occurring
 c.	How has the attack been pulled off ?  (Briefly describe and explain, not just list “Traffic Misuse”, or “SYN Flood”.  Go into a little detail).
 
 
+Finish  
+http://overthewire.org/wargames/bandit/bandit3.html
 
 
 

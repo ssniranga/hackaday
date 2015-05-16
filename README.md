@@ -28,7 +28,18 @@ https://kiwiirc.com/client
 
 
 ## Step 2 - Kali linux
- 
+
+update kali   
+"sudo apt-get update"  
+"sudo apt-get upgrade"  
+
+metagofin  
+"metagoofil   -d securitytube.net -t doc,pdf -l 20 -n 10 -o ddos -f securitytube.html"
+
+The harvesting  
+"theharvester   -d slitt.lk -l 500 -b google"
+
+
 ## Intresting url's
 
 https://www.atlassian.com/software/fisheye/overview

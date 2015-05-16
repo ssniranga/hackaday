@@ -57,12 +57,25 @@ https://rg3.github.io/youtube-dl/
 
 http://map.ipviking.com/
 
+lifehacker  
+
+zenhabbits  
+
+
+
 
 
 ## Key words
 
 machine learning - should learn
-Threat wire
+Threat wire  
+lateralthinking  
+smartcuts  
+snowball  
+4 hour work week  
+Rich dad and poor dad
+
+
 
 ## Exam Questions
 

@@ -39,6 +39,10 @@ metagofin
 The harvesting  
 "theharvester   -d slitt.lk -l 500 -b google"
 
+## Step 3 - Digital Forensics
+http://www.computersecuritystudent.com/FORENSICS/AUTOPSY/lesson1/index.html
+
+
 
 ## Intresting url's
 

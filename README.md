@@ -20,6 +20,7 @@ https://www.exploit-db.com/google-hacking-database/
 
 http://thehiddenwiki.org/
 
+https://www.digitalocean.com/
 
 
 ## IRC

@@ -42,7 +42,8 @@ The harvesting
 ## Step 3 - Digital Forensics
 http://www.computersecuritystudent.com/FORENSICS/AUTOPSY/lesson1/index.html
 
-
+## Step 4 - Virus Creation
+http://www.irongeek.com/i.php?page=security/altds
 
 ## Intresting url's
 

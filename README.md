@@ -26,6 +26,8 @@ https://www.digitalocean.com/
 ## IRC
 https://kiwiirc.com/client
 
+
+## Step 2 - Kali linux
  
 ## Intresting url's
 

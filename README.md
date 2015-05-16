@@ -81,6 +81,16 @@ http://overthewire.org/wargames/bandit/bandit3.html
 
 
 
+# Plan
+
+Wargames  
+Hackin the box  https://www.vulnhub.com  
+CTF https://ctftime.org  , http://captf.com/practice-ctf/   
+Bug crowd  
+
+
+
+
 
 
 

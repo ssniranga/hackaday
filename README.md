@@ -54,10 +54,27 @@ http://www.reddit.com/
 
 https://rg3.github.io/youtube-dl/
 
+http://map.ipviking.com/
+
+
 
 ## Key words
 
 machine learning - should learn
+Threat wire
+
+## Exam Questions
+
+http://www.digitalattackmap.com/
+
+pick out three interesting periods of activity (at the bottom).  For each provide the following.    
+A.	The date (period)  
+B.	Pick a major botnet’s activity and list:  
+a.	Source and Destination  
+b.	How long the attack has been occurring  
+c.	How has the attack been pulled off ?  (Briefly describe and explain, not just list “Traffic Misuse”, or “SYN Flood”.  Go into a little detail).
+
+
 
 
 
